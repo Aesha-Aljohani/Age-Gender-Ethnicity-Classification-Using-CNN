@@ -1,4 +1,4 @@
-# Age-Gender-Ethnicity-Classification-Using-CNN
+# Predicting_Age_Of_Image_By_CNN
 
 This is the Final project (SDAIA Academy) **Bootcamp T5** Data Science
 
